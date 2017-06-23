@@ -17,7 +17,7 @@
 	   NAME="PMP"
 	   UI_FREEZE="N"
 	   LOCKED_BY_NAME="DEV1"
-	   UPDATED="06/22/2017 17:29:45"
+	   UPDATED="06/22/2017 17:30:36"
 	   UPDATED_BY="DEV1"
 	   CREATED="09/01/2005 17:37:19"
 	   CREATED_BY="SADMIN"
@@ -25,7 +25,7 @@
 		<APPLET
 		   BUSINESS_COMPONENT="Portfolio Account"
 		   CLASS="CSSFrameList"
-		   COMMENTS="cfgcfgd"
+		   COMMENTS="ghguyttyt"
 		   DISABLE_DATALOSS_WARNING="N"
 		   HEIGHT="4"
 		   INACTIVE="N"
@@ -41,7 +41,7 @@
 		   TYPE="Standard"
 		   UPGRADE_BEHAVIOR="Preserve"
 		   WIDTH="2"
-		   UPDATED="06/22/2017 17:29:45"
+		   UPDATED="06/22/2017 17:30:36"
 		   UPDATED_BY="DEV1"
 		   CREATED="09/01/2005 19:20:15"
 		   CREATED_BY="SADMIN">
